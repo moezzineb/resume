@@ -100,9 +100,9 @@ export default function Testmonials() {
                   <span className="icon-world"></span>
                 </div>
                 <div className="counter">
-                  <kbd>500</kbd>+
+                  <kbd>10</kbd>+
                   <div className="description">
-                    Successfully completed cases
+                    Successfully completed projects
                   </div>
                 </div>
               </div>
@@ -111,10 +111,7 @@ export default function Testmonials() {
                   <span className="icon-user"></span>
                 </div>
                 <div className="counter">
-                  <kbd>750</kbd>+
-                  <div className="description">
-                    Highly specialised consultants
-                  </div>
+                  <kbd>10</kbd>+<div className="description">Happy clients</div>
                 </div>
               </div>
               <div className="col-lg-6 col-sm-6 counter-area">
@@ -124,7 +121,7 @@ export default function Testmonials() {
                 <div className="counter">
                   <kbd>100</kbd>%
                   <div className="description">
-                    Satisfaction of our customers
+                    Satisfaction of my customers
                   </div>
                 </div>
               </div>
@@ -133,9 +130,9 @@ export default function Testmonials() {
                   <span className="icon-world"></span>
                 </div>
                 <div className="counter">
-                  <kbd>800</kbd>+
+                  <kbd>5</kbd>+
                   <div className="description">
-                    Countries where we have clients
+                    Countries where i have clients
                   </div>
                 </div>
               </div>

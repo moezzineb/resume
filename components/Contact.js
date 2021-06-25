@@ -9,10 +9,7 @@ export default function Contact() {
             <div className="col-lg-6 col-sm-12 m-auto">
               <div className="section-heading">
                 <h2 className="section-title">Have a project on Mind?</h2>
-                <p>
-                  Libero ipsam numquam quos minus at corporis illum, reiciendis
-                  aliquam ut non dolor. Optio provident numquam
-                </p>
+                <p>I can transform your idea into real project in few weeks</p>
               </div>
             </div>
           </div>
@@ -26,12 +23,12 @@ export default function Contact() {
                 <div className="section-heading text-center">
                   <h2 className="section-title">Get a Quote</h2>
                   <p className="section-description">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Ratione!
+                    Fill the contact form with real information and specify your
+                    idea details to make it easy for me.
                   </p>
                 </div>
                 <form
-                  action="https://newtemplate.net/demo/resume/template/side-menu/php/form.php"
+                  action="#"
                   method="post"
                   id="validation"
                   className="form-area"
@@ -40,17 +37,13 @@ export default function Contact() {
                     <div className="col-md-12">
                       <div className="select-area">
                         <select name="project">
-                          <option value="">What your project need?</option>
-                          <option value="Custom interface and layout">
-                            Custom interface and layout
+                          <option selected="true" disabled="disabled">
+                            What your project need?
                           </option>
-                          <option value="CMS integrations (WordPress)">
-                            CMS integrations (WordPress)
-                          </option>
-                          <option value="Website design">Website design</option>
-                          <option value="Seo optimization">
-                            SEO optimization
-                          </option>
+                          <option value="ux_ui">UX / UI</option>
+                          <option value="cms_wp">WordPress</option>
+                          <option value="web_app">Web App</option>
+                          <option value="mobile_app">Mobile App</option>
                         </select>
                       </div>
                     </div>
@@ -81,7 +74,9 @@ export default function Contact() {
                     <div className="col-md-12">
                       <div className="select-area">
                         <select name="budget">
-                          <option value="">What is your budget?</option>
+                          <option selected="true" disabled="disabled">
+                            What is your budget?
+                          </option>
                           <option value="under $500">
                             My budget is under $500
                           </option>
@@ -124,20 +119,18 @@ export default function Contact() {
                   <div className="icon-box">
                     <span className="icon-phone"></span>
                   </div>
-                  <h3>Call Us</h3>
+                  <h3>Call Me</h3>
                   <ul>
-                    <li>(001) 8686 234 432</li>
-                    <li>Office - (001) 2345 678 900</li>
+                    <li>(+216) 53 120 147</li>
                   </ul>
                 </div>
                 <div className="col-12 col-md-6 col-lg-4 contact-info">
                   <div className="icon-box">
                     <span className="icon-mail"></span>
                   </div>
-                  <h3>Email Us</h3>
+                  <h3>Email Me</h3>
                   <ul>
-                    <li>Info@example.com</li>
-                    <li>support@example.com</li>
+                    <li>moez.zineb@gmail.com</li>
                   </ul>
                 </div>
                 <div className="col-12 col-md-12 col-lg-4 contact-info">
@@ -146,8 +139,8 @@ export default function Contact() {
                   </div>
                   <h3>Address</h3>
                   <ul>
-                    <li>Elston TCLexington</li>
-                    <li>Ave 549MD, London, UK</li>
+                    <li>City Fattouma Bourguiba</li>
+                    <li>Bardo 2000, Tunis, TN</li>
                   </ul>
                 </div>
               </div>

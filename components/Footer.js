@@ -15,27 +15,36 @@ export default function Footer() {
             >
               <ul className="footer-social">
                 <li>
-                  <a href="#0" target="_blank" title="Facebook">
-                    <i className="fab fa-facebook-f"></i>
+                  <a
+                    href="https://www.linkedin.com/in/moez-zineb/"
+                    target="_blank"
+                    title="Linkedin"
+                  >
+                    <i className="fab fa-linkedin"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#0" target="_blank" title="Twitter">
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li>
-                  <a href="#0" target="_blank" title="Instagram">
+                  <a
+                    href="https://www.instagram.com/moezbenzineb/"
+                    target="_blank"
+                    title="Instagram"
+                  >
                     <i className="fab fa-instagram"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="#0" target="_blank" title="Behance">
-                    <i className="fab fa-behance"></i>
+                  <a
+                    href="https://github.com/moezzineb"
+                    target="_blank"
+                    title="Behance"
+                  >
+                    <i className="fab fa-github"></i>
                   </a>
                 </li>
               </ul>
-              <h6 className="copy-txt">Copyright © 2018 Resume.</h6>
+              <h6 className="copy-txt">
+                Copyright © {new Date().getFullYear()}
+              </h6>
             </div>
           </div>
         </div>
@@ -47,10 +56,16 @@ export default function Footer() {
               <span className="icon-cancel"></span>
             </button>
             <h2>Need help?</h2>
-            <p>Contact us by WhatsApp</p>
+            <p>Contact me by WhatsApp</p>
           </div>
           <div className="chat-area">
-            <img className="img-item" src="images/whatsapp-img.jpg" alt="" />
+            <img
+              className="img-item"
+              src="images/profile-image.jpg"
+              alt=""
+              width="45"
+              height="45"
+            />
             <p>How may I help you?</p>
           </div>
           <form className="form-area" id="form-area">
