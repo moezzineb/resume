@@ -7,7 +7,7 @@ export default function About() {
         <div className="row">
           <div className="col-sm-12 col-lg-6">
             <div className="about-img">
-              <img src="images/about-image.png" alt="" />
+              <img src="images/myself.jpg" alt="" />
             </div>
           </div>
           <div className="col-sm-12 col-lg-6">
@@ -18,7 +18,7 @@ export default function About() {
               </div>
               <p>
                 I am a Tunisian web developer, graduated in June 2016, but I
-                developed my skills during more than 4 years working on exciting
+                developed my skills during more than 5 years working on exciting
                 creative projects for local and offshore clients.
               </p>
               <p>
@@ -32,7 +32,7 @@ export default function About() {
               <ul className="list-inline about-info">
                 <li>
                   <span>Name:</span>
-                  <p>Moez ZINEB</p>
+                  <p>Moez ZAINEB</p>
                 </li>
                 <li>
                   <span>Email:</span>

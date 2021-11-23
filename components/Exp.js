@@ -7,7 +7,7 @@ export default function Exp() {
         <div className="row">
           <div className="col-lg-5 col-sm-12">
             <div className="exp-content">
-              <h5 className="subtitle">Having 4 years Experience</h5>
+              <h5 className="subtitle">Having 5 years Experience</h5>
               <h3>
                 Amazing <span>experience</span> with those companies
               </h3>
@@ -30,13 +30,26 @@ export default function Exp() {
                 <div className="exp-block">
                   <img
                     className="img-icon"
+                    src="images/nexton.jpg"
+                    alt=""
+                    width="60"
+                    height="50"
+                  />
+                  <h4>Nexton</h4>
+                  <h6>2021 - Present</h6>
+                </div>
+              </div>
+              <div className="col-sm-6 col-md-6">
+                <div className="exp-block">
+                  <img
+                    className="img-icon"
                     src="images/coccinet.png"
                     alt=""
                     width="54"
                     height="50"
                   />
                   <h4>Coccinet</h4>
-                  <h6>2018 - Present</h6>
+                  <h6>2018 - 2021</h6>
                 </div>
               </div>
               <div className="col-sm-6 col-md-6">

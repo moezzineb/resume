@@ -15,11 +15,11 @@ export default function Layout({ children }) {
     <>
       <Head>
         <meta charSet="utf-8" />
-        <title>Moez ZINEB | Full-Stack Developer</title>
+        <title>Moez ZAINEB | Full-Stack Developer</title>
         <meta
           name="description"
-          content="My name is Moez ZINEB and I'm a Full-stack developer from Tunisia, I've graduated in juin
-              2016 but i've built my skills for more than 4 years by worked on
+          content="My name is Moez ZAINEB and I'm a Full-stack developer from Tunisia, I've graduated in juin
+              2016 but i've built my skills for more than 5 years by worked on
               good projects."
         />
         <meta
@@ -59,8 +59,8 @@ export default function Layout({ children }) {
         <Exp />
         <Services />
         <Portfolio />
-        <Testmonials />
-        <Blog />
+        {/* <Testmonials /> */}
+        {/* <Blog /> */}
         <Contact />
         <Footer />
       </div>

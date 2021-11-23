@@ -121,7 +121,7 @@ export default function Contact() {
                   </div>
                   <h3>Call Me</h3>
                   <ul>
-                    <li>(+216) 53 120 147</li>
+                    <li>(+33) 7 45 39 01 00</li>
                   </ul>
                 </div>
                 <div className="col-12 col-md-6 col-lg-4 contact-info">
@@ -139,8 +139,8 @@ export default function Contact() {
                   </div>
                   <h3>Address</h3>
                   <ul>
-                    <li>City Fattouma Bourguiba</li>
-                    <li>Bardo 2000, Tunis, TN</li>
+                    <li>98 Av. du Général de Gaulle</li>
+                    <li>92140 Clamart</li>
                   </ul>
                 </div>
               </div>

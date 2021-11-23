@@ -66,18 +66,18 @@ export default function SideBar() {
                       Portfolio
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href="#clients" className="scroll">
                       <span className="icon-speech-streamline-talk-user"></span>
                       Clients
                     </a>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <a href="#blog" className="scroll">
                       <span className="icon-design-graphic-tablet-streamline-tablet"></span>
                       Blog
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
