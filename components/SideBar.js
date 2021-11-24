@@ -12,7 +12,7 @@ export default function SideBar() {
                 <img src="images/profile-image.jpg" alt="" />
               </div>
               <div className="caption-area">
-                <h5 className="name">Moez ZINEB</h5>
+                <h5 className="name">Moez ZAINEB</h5>
                 <h6 className="designation skills cd-headline clip">
                   <span>I'm a &nbsp;</span>
                   <span className="cd-words-wrapper">
